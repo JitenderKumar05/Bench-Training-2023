@@ -22,7 +22,7 @@ public class AppTest
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.google.com/");
-		driver.findElement(By.name("H")).sendKeys("Harry",Keys.ENTER);
+		driver.findElement(By.name("q")).sendKeys("Games",Keys.ENTER);
 		System.out.println(driver.getTitle());
 		driver.quit();
 	}
