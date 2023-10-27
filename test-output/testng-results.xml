@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-25T13:23:53 IST" name="Default suite" finished-at="2023-10-25T13:24:48 IST" duration-ms="54965">
+  <suite started-at="2023-10-27T13:00:17 IST" name="Default suite" finished-at="2023-10-27T13:01:22 IST" duration-ms="64166">
     <groups>
     </groups>
-    <test started-at="2023-10-25T13:23:53 IST" name="Default test" finished-at="2023-10-25T13:24:48 IST" duration-ms="54965">
+    <test started-at="2023-10-27T13:00:17 IST" name="Default test" finished-at="2023-10-27T13:01:22 IST" duration-ms="64166">
       <class name="Bench_Tranning.Bench_Tranning.AppTest">
-        <test-method signature="Testgoogle()[pri:0, instance:Bench_Tranning.Bench_Tranning.AppTest@14028087]" started-at="2023-10-25T13:23:53 IST" name="Testgoogle" finished-at="2023-10-25T13:24:48 IST" duration-ms="54923" status="PASS">
+        <test-method signature="Testgoogle()[pri:0, instance:Bench_Tranning.Bench_Tranning.AppTest@14028087]" started-at="2023-10-27T13:00:17 IST" name="Testgoogle" finished-at="2023-10-27T13:01:22 IST" duration-ms="64079" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testgoogle -->
